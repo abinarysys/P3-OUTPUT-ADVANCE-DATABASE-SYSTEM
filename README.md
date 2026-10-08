@@ -23,3 +23,4 @@ Before running the project, make sure you have:
 -npm install express nodemon mysql/mysql2 ejs
 
 ## CLONE REPO
+git clone https://github.com/abinarysys/P3-OUTPUT-ADVANCE-DATABASE-SYSTEM.git
