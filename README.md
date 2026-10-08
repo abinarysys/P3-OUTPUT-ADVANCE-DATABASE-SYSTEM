@@ -18,8 +18,8 @@
 - GIT installed
 
 ## INSTALLATION
--npm init -y
--npm install express nodemon mysql/mysql2 ejs
+- npm init -y
+- npm install express nodemon mysql/mysql2 ejs
 
 ## CLONE REPO
 git clone https://github.com/abinarysys/P3-OUTPUT-ADVANCE-DATABASE-SYSTEM.git
