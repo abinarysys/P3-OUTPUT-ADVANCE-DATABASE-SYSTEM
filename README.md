@@ -13,10 +13,9 @@
 - JavaScript
 
 ## REQUIEMENTS 
-Before running the project, make sure you have:
--Node.js installed
--MySQL installed
--GIT installed
+- Node.js installed
+- MySQL installed
+- GIT installed
 
 ## INSTALLATION
 -npm init -y
